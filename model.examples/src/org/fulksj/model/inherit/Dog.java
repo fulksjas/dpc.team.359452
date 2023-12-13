@@ -1,4 +1,4 @@
-package org.fulksj.model.poly;
+package org.fulksj.model.inherit;
 
 public  class Dog extends Mammal {
 

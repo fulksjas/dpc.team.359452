@@ -1,9 +1,9 @@
 package org.fulksj.model.poly;
 
-public class Shotgun extends Gun {
-   // need to make an override so the shotgun makes a bigger noise
+public class BBGun extends Gun {
+   // need to make an override so the shotgun makes a smalll noise
     @Override
     public void shoot() {
-        System.out.println("Shotgun goes: BaBOOM!");
+        System.out.println("BB Gun goes: plink!");
     }
 }
